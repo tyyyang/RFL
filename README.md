@@ -1,6 +1,6 @@
 ## Recurrent Filter Learning for Visual Tracking
 This is the implementation of our RFL tracker published in ICCV2017 workshop on VOT. 
-Our code is written in **python3(3.6)** using **Tensorflow(>=1.2)** toolbox
+Our code is written in **python3(3.5)** using **Tensorflow(>=1.2)** toolbox
 
 ### Tracking
 You use our pretrained model to test our tracker first. 
