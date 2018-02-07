@@ -2,6 +2,8 @@
 This is the implementation of our RFL tracker published in ICCV2017 workshop on VOT. 
 Our code is written in **python3(3.5)** using **Tensorflow(>=1.2)** toolbox
 
+**For easy comparison, we upload our OTB100 results files to the directory `./RFL/otb100_results.zip`**
+
 ### Tracking
 You use our pretrained model to test our tracker first. 
 1. Download the model from the link: https://drive.google.com/open?id=0BzxOz7xyra_-dzJaY2d0Y1RiZFk
