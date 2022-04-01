@@ -6,7 +6,7 @@ Our code is written in **python3(3.5)** using **Tensorflow(>=1.2)** toolbox
 
 ### Tracking
 You use our pretrained model to test our tracker first. 
-1. Download the model from the link: https://drive.google.com/open?id=0BzxOz7xyra_-dzJaY2d0Y1RiZFk
+1. Download the model from the link: [model](https://drive.google.com/drive/folders/0BzxOz7xyra_-dzJaY2d0Y1RiZFk?resourcekey=0-aOh9gKNpJ-UHkR0LVJcZNA&usp=sharing)
 2. Put the model into directory `./output/models`
 3. Run `python3 tracking_demo.py` in directory `./tracking`
 
